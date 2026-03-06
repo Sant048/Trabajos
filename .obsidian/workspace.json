@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/Dataset/Dataset extraido/Limpieza de datos y origen del archivo original.md",
+                "file": "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 4. Diagrama de Pareto/06_Pareto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limpieza de datos y origen del archivo original"
+              "title": "06_Pareto"
             }
           }
         ]
@@ -185,22 +185,40 @@
   },
   "active": "229fb983d4b3ff5e",
   "lastOpenFiles": [
-    "Sin nombre/taller.pdf",
-    "taller.pdf",
-    "Sin nombre",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL.zip",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/Dataset/Dataset original/Limpieza de datos y origen del archivo original.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL.zip",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 4. Diagrama de Pareto/06_Pareto.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 7. Boxplot y Valores Atípicos/09_Outliers_Boxplot.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/Informe_Final_Taller.docx",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/Data sets/Data set taller/Taller_Estadistica_Final.xlsx",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 7. Boxplot y Valores Atípicos/09_Outliers_Boxplot.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 8. Análisis Estratégico/10_Analisis_Estrategico.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 8. Análisis Estratégico/10_Analisis_Estrategico.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 6. Segmentación de Mercados mediante Cuantiles/08_Cuantiles_Segmentacion.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 6. Segmentación de Mercados mediante Cuantiles/08_Cuantiles_Segmentacion.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 5. Medidas Descriptivas/07_Medidas_Descriptivas.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 5. Medidas Descriptivas/07_Medidas_Descriptivas.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 4. Diagrama de Pareto/06_Pareto.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 4. Diagrama de Pareto/06_Pareto.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 3. Representación Gráfica/nota.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/nota.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 2. Distribuciones de Frecuencia/05_Frecuencias.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 2. Distribuciones de Frecuencia/05_Frecuencias.pdf",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/04_Clasificacion_Variables.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/03_Limpieza_Calidad.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/02_Metodologia_Transformacion.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/01_Ficha_Tecnica.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/00_INDEX.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/Requerimientos Técnicos y Tramiento de datos.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/01_Ficha_Tecnica 1.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/00_INDEX 1.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/PARTE 1. Preparación de Datos/Obtención, tratamiento y clasificación de datos.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/Contexto y procedimiento del taller.md",
+    "ESTADÍSTICA APLICADA AL COMERCIO INTERNACIONAL/Objetivo General/Sin título.md",
+    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/Dataset/Dataset extraido/Limpieza de datos y origen del archivo original.md",
     "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/serie_tiempo.png",
     "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/barras_TGP.png",
     "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/barras_TD.png",
     "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/boxplot.png",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/histogramas.png",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/Dataset/Dataset extraido/Dataset_32Ciudades_N1536.xlsx",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/analisis_completo.ipynb",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/Dataset/Dataset extraido/analisis_completo.ipynb",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/limpieza_dataset_32ciudades.ipynb",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REALANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL.ipynb",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/Dataset/Dataset_32Ciudades_N1536.xlsx",
-    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/Dataset/Dataset extraido/Limpieza de datos y origen del archivo original.md"
+    "ANÁLISIS ESTADÍSTICO INTEGRAL DE UN FENÓMENO REAL/notebooks/histogramas.png"
   ]
 }
